@@ -1,9 +1,11 @@
-﻿namespace HelloWorld;
-
-class Program
+﻿namespace HelloWorld
 {
-    static void Main(string[] args)
+    internal class Program
     {
-        Console.WriteLine("Hello, World! Alterado");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("TESTANDO SDK ARRUMADO");
+        }
     }
 }
