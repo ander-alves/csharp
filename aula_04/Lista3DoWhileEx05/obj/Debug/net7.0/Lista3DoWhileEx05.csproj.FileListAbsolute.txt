@@ -1,0 +1,14 @@
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista3DoWhileEx05\bin\Debug\net7.0\Lista3DoWhileEx05.exe
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista3DoWhileEx05\bin\Debug\net7.0\Lista3DoWhileEx05.deps.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista3DoWhileEx05\bin\Debug\net7.0\Lista3DoWhileEx05.runtimeconfig.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista3DoWhileEx05\bin\Debug\net7.0\Lista3DoWhileEx05.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista3DoWhileEx05\bin\Debug\net7.0\Lista3DoWhileEx05.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista3DoWhileEx05\obj\Debug\net7.0\Lista3DoWhileEx05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista3DoWhileEx05\obj\Debug\net7.0\Lista3DoWhileEx05.AssemblyInfoInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista3DoWhileEx05\obj\Debug\net7.0\Lista3DoWhileEx05.AssemblyInfo.cs
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista3DoWhileEx05\obj\Debug\net7.0\Lista3DoWhileEx05.csproj.CoreCompileInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista3DoWhileEx05\obj\Debug\net7.0\Lista3DoWhileEx05.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista3DoWhileEx05\obj\Debug\net7.0\refint\Lista3DoWhileEx05.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista3DoWhileEx05\obj\Debug\net7.0\Lista3DoWhileEx05.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista3DoWhileEx05\obj\Debug\net7.0\Lista3DoWhileEx05.genruntimeconfig.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista3DoWhileEx05\obj\Debug\net7.0\ref\Lista3DoWhileEx05.dll

@@ -1,0 +1,14 @@
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista6LoopEx01\bin\Debug\net7.0\Lista6LoopEx01.exe
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista6LoopEx01\bin\Debug\net7.0\Lista6LoopEx01.deps.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista6LoopEx01\bin\Debug\net7.0\Lista6LoopEx01.runtimeconfig.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista6LoopEx01\bin\Debug\net7.0\Lista6LoopEx01.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista6LoopEx01\bin\Debug\net7.0\Lista6LoopEx01.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista6LoopEx01\obj\Debug\net7.0\Lista6LoopEx01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista6LoopEx01\obj\Debug\net7.0\Lista6LoopEx01.AssemblyInfoInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista6LoopEx01\obj\Debug\net7.0\Lista6LoopEx01.AssemblyInfo.cs
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista6LoopEx01\obj\Debug\net7.0\Lista6LoopEx01.csproj.CoreCompileInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista6LoopEx01\obj\Debug\net7.0\Lista6LoopEx01.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista6LoopEx01\obj\Debug\net7.0\refint\Lista6LoopEx01.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista6LoopEx01\obj\Debug\net7.0\Lista6LoopEx01.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista6LoopEx01\obj\Debug\net7.0\Lista6LoopEx01.genruntimeconfig.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista6LoopEx01\obj\Debug\net7.0\ref\Lista6LoopEx01.dll

@@ -1,0 +1,14 @@
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx03\bin\Debug\net7.0\Lista2WhileEx03.exe
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx03\bin\Debug\net7.0\Lista2WhileEx03.deps.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx03\bin\Debug\net7.0\Lista2WhileEx03.runtimeconfig.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx03\bin\Debug\net7.0\Lista2WhileEx03.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx03\bin\Debug\net7.0\Lista2WhileEx03.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx03\obj\Debug\net7.0\Lista2WhileEx03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx03\obj\Debug\net7.0\Lista2WhileEx03.AssemblyInfoInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx03\obj\Debug\net7.0\Lista2WhileEx03.AssemblyInfo.cs
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx03\obj\Debug\net7.0\Lista2WhileEx03.csproj.CoreCompileInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx03\obj\Debug\net7.0\Lista2WhileEx03.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx03\obj\Debug\net7.0\refint\Lista2WhileEx03.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx03\obj\Debug\net7.0\Lista2WhileEx03.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx03\obj\Debug\net7.0\Lista2WhileEx03.genruntimeconfig.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx03\obj\Debug\net7.0\ref\Lista2WhileEx03.dll

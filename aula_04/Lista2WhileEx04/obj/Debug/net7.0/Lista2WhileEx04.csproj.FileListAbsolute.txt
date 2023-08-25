@@ -1,0 +1,14 @@
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx04\obj\Debug\net7.0\Lista2WhileEx04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx04\obj\Debug\net7.0\Lista2WhileEx04.AssemblyInfoInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx04\obj\Debug\net7.0\Lista2WhileEx04.AssemblyInfo.cs
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx04\obj\Debug\net7.0\Lista2WhileEx04.csproj.CoreCompileInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx04\bin\Debug\net7.0\Lista2WhileEx04.exe
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx04\bin\Debug\net7.0\Lista2WhileEx04.deps.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx04\bin\Debug\net7.0\Lista2WhileEx04.runtimeconfig.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx04\bin\Debug\net7.0\Lista2WhileEx04.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx04\bin\Debug\net7.0\Lista2WhileEx04.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx04\obj\Debug\net7.0\Lista2WhileEx04.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx04\obj\Debug\net7.0\refint\Lista2WhileEx04.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx04\obj\Debug\net7.0\Lista2WhileEx04.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx04\obj\Debug\net7.0\Lista2WhileEx04.genruntimeconfig.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_04\Lista2WhileEx04\obj\Debug\net7.0\ref\Lista2WhileEx04.dll
