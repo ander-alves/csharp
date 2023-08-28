@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Assistencia Star\\Desktop\\csharp\\aula_04\\Lista6LoopEx01\\Lista6LoopEx01.csproj": {}
+    "C:\\Users\\Assistencia Star\\Desktop\\csharp\\aula_04\\Lista1LoopEx01\\Lista6LoopEx01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Assistencia Star\\Desktop\\csharp\\aula_04\\Lista6LoopEx01\\Lista6LoopEx01.csproj": {
+    "C:\\Users\\Assistencia Star\\Desktop\\csharp\\aula_04\\Lista1LoopEx01\\Lista6LoopEx01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Assistencia Star\\Desktop\\csharp\\aula_04\\Lista6LoopEx01\\Lista6LoopEx01.csproj",
+        "projectUniqueName": "C:\\Users\\Assistencia Star\\Desktop\\csharp\\aula_04\\Lista1LoopEx01\\Lista6LoopEx01.csproj",
         "projectName": "Lista6LoopEx01",
-        "projectPath": "C:\\Users\\Assistencia Star\\Desktop\\csharp\\aula_04\\Lista6LoopEx01\\Lista6LoopEx01.csproj",
+        "projectPath": "C:\\Users\\Assistencia Star\\Desktop\\csharp\\aula_04\\Lista1LoopEx01\\Lista6LoopEx01.csproj",
         "packagesPath": "C:\\Users\\Assistencia Star\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Assistencia Star\\Desktop\\csharp\\aula_04\\Lista6LoopEx01\\obj\\",
+        "outputPath": "C:\\Users\\Assistencia Star\\Desktop\\csharp\\aula_04\\Lista1LoopEx01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

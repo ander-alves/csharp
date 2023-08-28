@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\aula_05",
+    "\\aula_05\\Lista1VetoresEx01",
+    "\\aula_05\\Matrizes",
+    "\\aula_05\\Vetores"
   ],
-  "SelectedNode": "\\aula_05",
+  "SelectedNode": "\\aula_05\\Lista1VetoresEx01\\Lista1VetoresEx01.sln",
   "PreviewInSolutionExplorer": false
 }

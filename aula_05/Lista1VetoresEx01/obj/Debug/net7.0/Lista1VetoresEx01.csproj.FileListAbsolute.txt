@@ -1,0 +1,14 @@
+C:\Users\Assistencia Star\Desktop\csharp\aula_05\Lista1VetoresEx01\bin\Debug\net7.0\Lista1VetoresEx01.exe
+C:\Users\Assistencia Star\Desktop\csharp\aula_05\Lista1VetoresEx01\bin\Debug\net7.0\Lista1VetoresEx01.deps.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_05\Lista1VetoresEx01\bin\Debug\net7.0\Lista1VetoresEx01.runtimeconfig.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_05\Lista1VetoresEx01\bin\Debug\net7.0\Lista1VetoresEx01.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_05\Lista1VetoresEx01\bin\Debug\net7.0\Lista1VetoresEx01.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_05\Lista1VetoresEx01\obj\Debug\net7.0\Lista1VetoresEx01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Assistencia Star\Desktop\csharp\aula_05\Lista1VetoresEx01\obj\Debug\net7.0\Lista1VetoresEx01.AssemblyInfoInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_05\Lista1VetoresEx01\obj\Debug\net7.0\Lista1VetoresEx01.AssemblyInfo.cs
+C:\Users\Assistencia Star\Desktop\csharp\aula_05\Lista1VetoresEx01\obj\Debug\net7.0\Lista1VetoresEx01.csproj.CoreCompileInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_05\Lista1VetoresEx01\obj\Debug\net7.0\Lista1VetoresEx01.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_05\Lista1VetoresEx01\obj\Debug\net7.0\refint\Lista1VetoresEx01.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_05\Lista1VetoresEx01\obj\Debug\net7.0\Lista1VetoresEx01.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_05\Lista1VetoresEx01\obj\Debug\net7.0\Lista1VetoresEx01.genruntimeconfig.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_05\Lista1VetoresEx01\obj\Debug\net7.0\ref\Lista1VetoresEx01.dll
