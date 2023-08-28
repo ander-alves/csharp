@@ -16,6 +16,7 @@ namespace Lista2WhileEx04
             {
                 Console.WriteLine("Informe a Sua Idade ");
                 idade = Convert.ToInt32(Console.ReadLine());
+                soma += idade;
                 Console.WriteLine("Informe a Identidade de Gênero (Número Inteiro) \n1 – Mulher Cis\r\n2 – Homem Cis\r\n3 – Não Binário\r\n4 – Mulher Trans\r\n5 – Homem Trans\r\n6 – Outros\r\n");
                 genero = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Pessoa Desenvolvedora (Número Inteiro) 1 – Backend \n2 – Frontend \n3 – Mobile \n4 – FullStack");
@@ -23,18 +24,22 @@ namespace Lista2WhileEx04
 
                 if (categoria == 1)
                     backEnd++;
-                if (genero == 1 || genero == 4 && categoria == 2)
+
+                if ((genero == 1 || genero == 4) && categoria == 2)
                     mulherFront++;
-                if (genero == 2 || genero == 5 && categoria == 3 && idade > 40)
+
+                if ((genero == 2 || genero == 5) && categoria == 3 && idade > 40)
                     homem40Mais++;
+
                 if (genero == 3 && categoria == 4 && idade < 30)
                     naoBinUnder30++;
 
-                total = backEnd + mulherFront + homem40Mais + naoBinUnder30 + outros;
-                soma = soma + idade;
-                media = soma / total;
+
+
                 Console.WriteLine("Deseja Continuar ? ");
                 continua = Console.ReadLine().ToUpper();
+                total++;
+                media = (float)soma / total;
             }
 
             Console.WriteLine($"Total de pessoas desenvolvedoras Backend : {backEnd}");
