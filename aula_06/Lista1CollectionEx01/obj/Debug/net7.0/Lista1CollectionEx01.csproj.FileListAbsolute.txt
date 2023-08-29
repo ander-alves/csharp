@@ -1,0 +1,14 @@
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Lista1CollectionEx01\bin\Debug\net7.0\Lista1CollectionEx01.exe
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Lista1CollectionEx01\bin\Debug\net7.0\Lista1CollectionEx01.deps.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Lista1CollectionEx01\bin\Debug\net7.0\Lista1CollectionEx01.runtimeconfig.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Lista1CollectionEx01\bin\Debug\net7.0\Lista1CollectionEx01.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Lista1CollectionEx01\bin\Debug\net7.0\Lista1CollectionEx01.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Lista1CollectionEx01\obj\Debug\net7.0\Lista1CollectionEx01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Lista1CollectionEx01\obj\Debug\net7.0\Lista1CollectionEx01.AssemblyInfoInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Lista1CollectionEx01\obj\Debug\net7.0\Lista1CollectionEx01.AssemblyInfo.cs
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Lista1CollectionEx01\obj\Debug\net7.0\Lista1CollectionEx01.csproj.CoreCompileInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Lista1CollectionEx01\obj\Debug\net7.0\Lista1CollectionEx01.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Lista1CollectionEx01\obj\Debug\net7.0\refint\Lista1CollectionEx01.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Lista1CollectionEx01\obj\Debug\net7.0\Lista1CollectionEx01.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Lista1CollectionEx01\obj\Debug\net7.0\Lista1CollectionEx01.genruntimeconfig.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Lista1CollectionEx01\obj\Debug\net7.0\ref\Lista1CollectionEx01.dll

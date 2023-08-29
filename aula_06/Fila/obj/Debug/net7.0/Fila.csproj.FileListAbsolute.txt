@@ -1,0 +1,14 @@
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Fila\bin\Debug\net7.0\Fila.exe
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Fila\bin\Debug\net7.0\Fila.deps.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Fila\bin\Debug\net7.0\Fila.runtimeconfig.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Fila\bin\Debug\net7.0\Fila.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Fila\bin\Debug\net7.0\Fila.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Fila\obj\Debug\net7.0\Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Fila\obj\Debug\net7.0\Fila.AssemblyInfoInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Fila\obj\Debug\net7.0\Fila.AssemblyInfo.cs
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Fila\obj\Debug\net7.0\Fila.csproj.CoreCompileInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Fila\obj\Debug\net7.0\Fila.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Fila\obj\Debug\net7.0\refint\Fila.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Fila\obj\Debug\net7.0\Fila.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Fila\obj\Debug\net7.0\Fila.genruntimeconfig.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Fila\obj\Debug\net7.0\ref\Fila.dll
