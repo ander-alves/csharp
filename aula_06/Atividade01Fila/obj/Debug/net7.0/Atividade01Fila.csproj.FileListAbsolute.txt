@@ -1,0 +1,14 @@
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Atividade01Fila\bin\Debug\net7.0\Atividade01Fila.exe
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Atividade01Fila\bin\Debug\net7.0\Atividade01Fila.deps.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Atividade01Fila\bin\Debug\net7.0\Atividade01Fila.runtimeconfig.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Atividade01Fila\bin\Debug\net7.0\Atividade01Fila.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Atividade01Fila\bin\Debug\net7.0\Atividade01Fila.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Atividade01Fila\obj\Debug\net7.0\Atividade01Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Atividade01Fila\obj\Debug\net7.0\Atividade01Fila.AssemblyInfoInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Atividade01Fila\obj\Debug\net7.0\Atividade01Fila.AssemblyInfo.cs
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Atividade01Fila\obj\Debug\net7.0\Atividade01Fila.csproj.CoreCompileInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Atividade01Fila\obj\Debug\net7.0\Atividade01Fila.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Atividade01Fila\obj\Debug\net7.0\refint\Atividade01Fila.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Atividade01Fila\obj\Debug\net7.0\Atividade01Fila.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Atividade01Fila\obj\Debug\net7.0\Atividade01Fila.genruntimeconfig.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_06\Atividade01Fila\obj\Debug\net7.0\ref\Atividade01Fila.dll
