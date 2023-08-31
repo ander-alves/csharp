@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             {
+                Console.ForegroundColor = ConsoleColor.Yellow;
+
                 Stack<String> stack = new Stack<String>();
                 int seletor = 0;
 

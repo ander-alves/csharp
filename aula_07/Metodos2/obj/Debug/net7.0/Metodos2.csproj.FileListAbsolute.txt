@@ -1,0 +1,14 @@
+C:\Users\Assistencia Star\Desktop\csharp\aula_07\Metodos2\bin\Debug\net7.0\Metodos2.exe
+C:\Users\Assistencia Star\Desktop\csharp\aula_07\Metodos2\bin\Debug\net7.0\Metodos2.deps.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_07\Metodos2\bin\Debug\net7.0\Metodos2.runtimeconfig.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_07\Metodos2\bin\Debug\net7.0\Metodos2.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_07\Metodos2\bin\Debug\net7.0\Metodos2.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Assistencia Star\Desktop\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.AssemblyInfoInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.AssemblyInfo.cs
+C:\Users\Assistencia Star\Desktop\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.csproj.CoreCompileInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_07\Metodos2\obj\Debug\net7.0\refint\Metodos2.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.genruntimeconfig.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_07\Metodos2\obj\Debug\net7.0\ref\Metodos2.dll

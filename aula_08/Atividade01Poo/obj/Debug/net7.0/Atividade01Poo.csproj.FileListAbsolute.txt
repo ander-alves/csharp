@@ -1,0 +1,14 @@
+C:\Users\Assistencia Star\Desktop\csharp\aula_08\Atividade01Poo\bin\Debug\net7.0\Atividade01Poo.exe
+C:\Users\Assistencia Star\Desktop\csharp\aula_08\Atividade01Poo\bin\Debug\net7.0\Atividade01Poo.deps.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_08\Atividade01Poo\bin\Debug\net7.0\Atividade01Poo.runtimeconfig.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_08\Atividade01Poo\bin\Debug\net7.0\Atividade01Poo.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_08\Atividade01Poo\bin\Debug\net7.0\Atividade01Poo.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_08\Atividade01Poo\obj\Debug\net7.0\Atividade01Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Assistencia Star\Desktop\csharp\aula_08\Atividade01Poo\obj\Debug\net7.0\Atividade01Poo.AssemblyInfoInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_08\Atividade01Poo\obj\Debug\net7.0\Atividade01Poo.AssemblyInfo.cs
+C:\Users\Assistencia Star\Desktop\csharp\aula_08\Atividade01Poo\obj\Debug\net7.0\Atividade01Poo.csproj.CoreCompileInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_08\Atividade01Poo\obj\Debug\net7.0\Atividade01Poo.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_08\Atividade01Poo\obj\Debug\net7.0\refint\Atividade01Poo.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_08\Atividade01Poo\obj\Debug\net7.0\Atividade01Poo.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_08\Atividade01Poo\obj\Debug\net7.0\Atividade01Poo.genruntimeconfig.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_08\Atividade01Poo\obj\Debug\net7.0\ref\Atividade01Poo.dll
