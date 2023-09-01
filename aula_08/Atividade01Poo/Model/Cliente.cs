@@ -73,14 +73,14 @@ namespace Atividade01Poo.Model
             this.email = email;
         }
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
+            Console.WriteLine("*********************************");
             Console.WriteLine($"Nome: {nome}");
             Console.WriteLine($"Idade: {idade}");
             Console.WriteLine($"Endereço: {endereco}");
             Console.WriteLine($"Telefone: {telefone}");
             Console.WriteLine($"Email: {email}");
-            Console.WriteLine();
         }
     }
 }

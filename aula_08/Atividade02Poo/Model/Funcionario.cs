@@ -73,14 +73,13 @@ namespace Atividade02Poo.Model
             this.departamento = departamento;
         }
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
             Console.WriteLine($"Nome: {nome}");
             Console.WriteLine($"Idade: {idade}");
             Console.WriteLine($"Cargo: {cargo}");
             Console.WriteLine($"Salário: {salario:C2}");
             Console.WriteLine($"Departamento: {departamento}");
-            Console.WriteLine();
         }
     }
 }
