@@ -1,0 +1,14 @@
+C:\Users\Assistencia Star\Desktop\csharp\aula_10\TriAtleta\bin\Debug\net7.0\TriAtleta.exe
+C:\Users\Assistencia Star\Desktop\csharp\aula_10\TriAtleta\bin\Debug\net7.0\TriAtleta.deps.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_10\TriAtleta\bin\Debug\net7.0\TriAtleta.runtimeconfig.json
+C:\Users\Assistencia Star\Desktop\csharp\aula_10\TriAtleta\bin\Debug\net7.0\TriAtleta.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_10\TriAtleta\bin\Debug\net7.0\TriAtleta.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_10\TriAtleta\obj\Debug\net7.0\TriAtleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Assistencia Star\Desktop\csharp\aula_10\TriAtleta\obj\Debug\net7.0\TriAtleta.AssemblyInfoInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_10\TriAtleta\obj\Debug\net7.0\TriAtleta.AssemblyInfo.cs
+C:\Users\Assistencia Star\Desktop\csharp\aula_10\TriAtleta\obj\Debug\net7.0\TriAtleta.csproj.CoreCompileInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_10\TriAtleta\obj\Debug\net7.0\TriAtleta.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_10\TriAtleta\obj\Debug\net7.0\refint\TriAtleta.dll
+C:\Users\Assistencia Star\Desktop\csharp\aula_10\TriAtleta\obj\Debug\net7.0\TriAtleta.pdb
+C:\Users\Assistencia Star\Desktop\csharp\aula_10\TriAtleta\obj\Debug\net7.0\TriAtleta.genruntimeconfig.cache
+C:\Users\Assistencia Star\Desktop\csharp\aula_10\TriAtleta\obj\Debug\net7.0\ref\TriAtleta.dll

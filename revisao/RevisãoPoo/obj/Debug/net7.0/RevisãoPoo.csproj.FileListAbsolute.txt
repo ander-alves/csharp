@@ -1,0 +1,14 @@
+C:\Users\Assistencia Star\Desktop\csharp\revisao\RevisãoPoo\bin\Debug\net7.0\RevisãoPoo.exe
+C:\Users\Assistencia Star\Desktop\csharp\revisao\RevisãoPoo\bin\Debug\net7.0\RevisãoPoo.deps.json
+C:\Users\Assistencia Star\Desktop\csharp\revisao\RevisãoPoo\bin\Debug\net7.0\RevisãoPoo.runtimeconfig.json
+C:\Users\Assistencia Star\Desktop\csharp\revisao\RevisãoPoo\bin\Debug\net7.0\RevisãoPoo.dll
+C:\Users\Assistencia Star\Desktop\csharp\revisao\RevisãoPoo\bin\Debug\net7.0\RevisãoPoo.pdb
+C:\Users\Assistencia Star\Desktop\csharp\revisao\RevisãoPoo\obj\Debug\net7.0\RevisãoPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Assistencia Star\Desktop\csharp\revisao\RevisãoPoo\obj\Debug\net7.0\RevisãoPoo.AssemblyInfoInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\revisao\RevisãoPoo\obj\Debug\net7.0\RevisãoPoo.AssemblyInfo.cs
+C:\Users\Assistencia Star\Desktop\csharp\revisao\RevisãoPoo\obj\Debug\net7.0\RevisãoPoo.csproj.CoreCompileInputs.cache
+C:\Users\Assistencia Star\Desktop\csharp\revisao\RevisãoPoo\obj\Debug\net7.0\RevisãoPoo.dll
+C:\Users\Assistencia Star\Desktop\csharp\revisao\RevisãoPoo\obj\Debug\net7.0\refint\RevisãoPoo.dll
+C:\Users\Assistencia Star\Desktop\csharp\revisao\RevisãoPoo\obj\Debug\net7.0\RevisãoPoo.pdb
+C:\Users\Assistencia Star\Desktop\csharp\revisao\RevisãoPoo\obj\Debug\net7.0\RevisãoPoo.genruntimeconfig.cache
+C:\Users\Assistencia Star\Desktop\csharp\revisao\RevisãoPoo\obj\Debug\net7.0\ref\RevisãoPoo.dll

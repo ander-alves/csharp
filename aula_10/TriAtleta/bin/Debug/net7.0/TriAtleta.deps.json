@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TriAtleta/1.0.0": {
+        "runtime": {
+          "TriAtleta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TriAtleta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
