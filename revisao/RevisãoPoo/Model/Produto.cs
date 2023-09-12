@@ -9,33 +9,54 @@ namespace RevisãoPoo.Model
 {
     public abstract class Produto
     {
-        private int id;
-        private string nome;
-        private int tipo;
-        private decimal preco;
 
-        protected Produto(int id, string nome, int tipo, decimal preco)
+        public int Id { get; set; }
+        public string Nome { get; set; } = string.Empty;
+        public int Tipo { get; set; }
+        public decimal Preco { get; set; }
+
+        public Produto(int id, string nome, int tipo, decimal preco)
         {
-            this.id = id;
-            this.nome = nome;
-            this.tipo = tipo;
-            this.preco = preco;
+            Id = id;
+            Nome = nome;
+            Tipo = tipo;
+            Preco = preco;
         }
 
-        public int getId() { return id; }
-        public void setId(int id) { this.id = id; }
-        public string getNome() { return nome; }
-        public void setNome(string nome) {  this.nome = nome; }
-        public int getTipo() { return tipo; }
-        public void setTipo(int tipo) { this.tipo = tipo; }
-        public decimal getPreco() { return preco; }
-        public void setPreco(decimal preco) { this.preco = preco; }
+        protected Produto() { }
+
+        public Produto(string nome, int tipo, decimal preco)
+        {
+            Nome = nome;
+            Tipo = tipo;
+            Preco = preco;
+        }
 
 
         public virtual void Visualizar()
         {
 
+            string tipo = "";
+
+            switch (Tipo)
+            {
+                case 1:
+                    tipo = "Medicamento";
+                    break;
+                case 2:
+                    tipo = "Cosmético";
+                    break;
+            }
+
+            Console.WriteLine("\n\n*********************************************************************");
+            Console.WriteLine("Dados do Produto:");
+            Console.WriteLine("*********************************************************************");
+            Console.WriteLine("Id do Produto: " + Id);
+            Console.WriteLine("Nome do Produto: " + Nome);
+            Console.WriteLine("Tipo do Produto: " + tipo);
+            Console.WriteLine("Preço do Produto: " + Preco);
+
         }
-       
+
     }
 }
